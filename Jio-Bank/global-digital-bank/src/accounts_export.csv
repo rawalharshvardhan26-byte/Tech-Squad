@@ -1,0 +1,10 @@
+account_number,name,age,account_type,balance,status,pin
+1001,Vikas,18,Savings,150000.00,Active,$2b$12$kydKe7hJhAmGL8Wkay4hRerbdcwMEdnvOJE27VjPEfawmvoYmoDLu
+1002,Hemanth,20,Current,49900.00,Active,
+1003,yahya,100,Savings,10000.00,Active,
+1004,yahya,1001,Savings,100000.00,Active,
+1005,charan b,20,Savings,100000.00,Active,
+1006,srushti ss,21,Current,202700.00,Active,
+1007,Pratap,58,Current,1400.00,Active,$2b$12$PoB5f3wDBTC9s3IHYhL9xelWHYfeZwQpg3eEbtQ0td78K0kcIRKuu
+1008,Rawal,25,Savings,2200.00,Active,$2b$12$xOQdjzTkjE7iKXCE.7VC7Onu1DrLUYxybkz0DqqO1q5OP6MDNOFoi
+1009,Vacho,20,Savings,29900.00,Active,

@@ -1,0 +1,7 @@
+account_number,name,age,balance,account_type,status,pin
+1001,Vikas,18,150000.0,Savings,Inactive,
+1002,Hemanth,20,50000.0,Current,Active,
+1003,yahya,100,10000.0,Savings,Active,
+1004,yahya,1001,100000.0,Savings,Active,
+1005,charan b,20,100000.0,Savings,Active,
+1006,srushti ss,21,202700.0,Savings,Closed,
